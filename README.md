@@ -127,4 +127,4 @@
        alt="leofernandeseng" />
 </p>
 
-![snake gif](https://github.com/LeoFernandesEng/LeoFernandesEng/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/LeoFernandesEng/LeoFernandesEng/blob/output/github-contribution-grid-snake.svg)
