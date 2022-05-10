@@ -2,9 +2,29 @@
   <b>Leonardo Fernandes</b>
 </h1>
 
-<h3 align="center">
-  Engenheiro apaixonado por programação !
-</h3>
+<div align="center" style="display: inline-block">
+  <a>
+    <img src="https://cdn-icons-png.flaticon.com/512/2891/2891539.png" 
+       alt="coffe" 
+       width="80" 
+       height="80"/> 
+  </a>  
+  
+  <a>
+    <img src="https://cdn-icons.flaticon.com/png/512/2703/premium/2703928.png?token=exp=1652163210~hmac=45fe8e3aa043d2a79c2f1f0cba2272fd" 
+       alt="code" 
+       width="80" 
+       height="80"/> 
+  </a>
+  
+  <a>
+     <img src="https://cdn-icons.flaticon.com/png/512/2460/premium/2460920.png?token=exp=1652162702~hmac=48b3fc42ab62c3ee2610845746c82258" 
+       alt="bed" 
+       width="80" 
+       height="80"/> 
+  </a>
+  
+</div>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=leofernandeseng&label=Profile%20views&color=0e75b6&style=flat" alt="leofernandeseng" /> 
