@@ -126,3 +126,5 @@
        src="https://github-readme-stats.vercel.app/api?username=leofernandeseng&show_icons=true&locale=en&Theme=dark" 
        alt="leofernandeseng" />
 </p>
+
+![snake gif](https://github.com/LeoFernandesEng/LeoFernandesEng/blob/output/github-contribution-grid-snake.gif)
