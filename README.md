@@ -115,15 +115,12 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=leofernandeseng&show_icons=true&locale=en&layout=compact&Theme=dark" 
+<p align="center">
+   <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=leofernandeseng&show_icons=true&locale=en&layout=compact&theme=dark" 
        alt="leofernandeseng" />
-</p>
-
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=leofernandeseng&show_icons=true&locale=en&Theme=dark" 
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=leofernandeseng&show_icons=true&locale=en&theme=dark" 
        alt="leofernandeseng" />
 </p>
 
