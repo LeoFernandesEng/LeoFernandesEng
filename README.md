@@ -135,11 +135,11 @@
   </a> 
 </p>
 
-<div>
-   <img height="180em"
+<div align = "center">
+   <img height="150em"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=leofernandeseng&show_icons=true&locale=en&layout=compact&theme=dark" 
        alt="leofernandeseng" />
-  <img height="180em"
+  <img height="150em"
        src="https://github-readme-stats.vercel.app/api?username=leofernandeseng&show_icons=true&locale=en&theme=dark" 
        alt="leofernandeseng" />
 </div>
