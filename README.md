@@ -18,7 +18,7 @@
   </a>
   
   <a>
-     <img src="https://cdn-icons.flaticon.com/png/512/2460/premium/2460920.png?token=exp=1652162702~hmac=48b3fc42ab62c3ee2610845746c82258" 
+     <img src="https://github.com/LeoFernandesEng/LeoFernandesEng/blob/main/8556426_bed_sleep_furniture_decoration_mattress_icon.png?raw=true" 
        alt="bed" 
        width="80" 
        height="80"/> 
