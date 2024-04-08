@@ -51,7 +51,7 @@
 </p>
 
 <h3 
-    align="left">Languages and Tools:
+    align="left">Languages what I worked and Tools:
 </h3>
 
 <p align="left"> 
