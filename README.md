@@ -20,8 +20,8 @@
   <a>
      <img src="https://github.com/LeoFernandesEng/LeoFernandesEng/blob/main/8556426_bed_sleep_furniture_decoration_mattress_icon.png?raw=true" 
        alt="bed" 
-       width="80" 
-       height="80"/> 
+       width="85" 
+       height="85"/> 
   </a>
   
 </div>
