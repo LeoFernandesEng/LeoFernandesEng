@@ -11,7 +11,7 @@
   </a>  
   
   <a>
-    <img src="https://cdn-icons.flaticon.com/png/512/2703/premium/2703928.png?token=exp=1652163210~hmac=45fe8e3aa043d2a79c2f1f0cba2272fd" 
+    <img src="https://github.com/LeoFernandesEng/LeoFernandesEng/blob/main/coding.png" 
        alt="code" 
        width="80" 
        height="80"/> 
